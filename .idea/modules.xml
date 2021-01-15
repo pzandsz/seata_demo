@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-nacos-seata/base-framework-mysql-support/base-framework-mysql-support.iml" filepath="$PROJECT_DIR$/springcloud-nacos-seata/base-framework-mysql-support/base-framework-mysql-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-nacos-rocketmq-tx/base-framework-mysql-support/base-framework-mysql-support (1).iml" filepath="$PROJECT_DIR$/springcloud-nacos-rocketmq-tx/base-framework-mysql-support/base-framework-mysql-support (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/samples-account-service/samples-account-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/samples-account-service/samples-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/samples-business-service/samples-business-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/samples-business-service/samples-business-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/samples-common-service/samples-common-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/samples-common-service/samples-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/samples-order-service/samples-order-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/samples-order-service/samples-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/samples-storage-service/samples-storage-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/samples-storage-service/samples-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-seata/seata-spring-boot-starter-samples.iml" filepath="$PROJECT_DIR$/springboot-dubbo-seata/seata-spring-boot-starter-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seata_demo.iml" filepath="$PROJECT_DIR$/.idea/seata_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-nacos-seata/springcloud-nacos-seata.iml" filepath="$PROJECT_DIR$/springcloud-nacos-seata/springcloud-nacos-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-nacos-rocketmq-tx/springcloud-nacos-seata (1).iml" filepath="$PROJECT_DIR$/springcloud-nacos-rocketmq-tx/springcloud-nacos-seata (1).iml" />
+    </modules>
+  </component>
+</project>
