@@ -66,6 +66,7 @@ seata:
       #与seata server的registry.conf的nacos名字相同
       application: seata-server
       server-addr: localhost:8848
+      group: "DEFAULT_GROUP"
       namespace:
       userName: "nacos"
       password: "nacos"

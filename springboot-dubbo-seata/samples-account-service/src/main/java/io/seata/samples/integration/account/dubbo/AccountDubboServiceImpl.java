@@ -26,6 +26,7 @@ public class AccountDubboServiceImpl implements AccountDubboService {
     @Override
     public ObjectResponse decreaseAccount(AccountDTO accountDTO) {
         log.info("全局事务id ：" + RootContext.getXID());
+        //扣款
         return accountService.decreaseAccount(accountDTO);
     }
 }
